@@ -37,7 +37,8 @@ $(document).ready(function () {
     var wrong = 0;
     var q1 = {
         question: 'Who has the highest batting average in a season?',
-        possibleAnswers: ['A. Derek Jeter',
+        possibleAnswers: 
+            ['A. Derek Jeter',
             'B. Lou Gehrig',
             'C. Babe Ruth',
             'D. Don Mattingly'],
@@ -47,7 +48,8 @@ $(document).ready(function () {
 
     var q2 = {
         question: 'Which Yankee has the Lowest Career ERA?',
-        possibleAnswers: ['A. Whitey Ford',
+        possibleAnswers: 
+            ['A. Whitey Ford',
             'B. Mariano Rivera',
             'C. Mel Stottlemyre',
             'D. Dave Righetti'],
@@ -57,7 +59,8 @@ $(document).ready(function () {
 
     var q3 = {
         question: 'Which Yankee has the Most Career Home Runs?',
-        possibleAnswers: ['A. Jason Giambi',
+        possibleAnswers: 
+        ['A. Jason Giambi',
             'B. Babe Ruth',
             'C. Alex Rodriquez',
             'D. Mickey Mantle'],
@@ -67,7 +70,8 @@ $(document).ready(function () {
 
     var q4 = {
         question: 'Who has the Most All Time Hits for the Yankees',
-        possibleAnswers: ['A. Derek Jeter',
+        possibleAnswers: 
+            ['A. Derek Jeter',
             'B. Lou Gehrig',
             'C. Willie Randolph',
             'D. Joe Dimaggio'],
@@ -77,7 +81,8 @@ $(document).ready(function () {
 
     var q5 = {
         question: 'Which Yankee Gave up the Most All Time Hits',
-        possibleAnswers: ['A. Whitey Ford',
+        possibleAnswers: 
+            ['A. Whitey Ford',
             'B. Andy Pettitte',
             'C. Mike Mussina',
             'D. CC Sabathia'],
@@ -87,7 +92,8 @@ $(document).ready(function () {
 
     var q6 = {
         question: 'Which Pitcher is the All Time Leader in Yankee history ',
-        possibleAnswers: ['A. Dave Righetti',
+        possibleAnswers: 
+            ['A. Dave Righetti',
             'B. David Cone',
             'C. Roger Clemans',
             'D. Andy Pettitte'],
@@ -97,7 +103,8 @@ $(document).ready(function () {
 
     var q7 = {
         question: 'What Yankee has the Most RBIs in a Season',
-        possibleAnswers: ['A. Joe DiMaggio',
+        possibleAnswers: 
+            ['A. Joe DiMaggio',
             'B. Babe Ruth',
             'C. Lou Gehrig',
             'D. Alex Rodriguez'],
@@ -107,7 +114,8 @@ $(document).ready(function () {
 
     var q8 = {
         question: 'Which Yankee has the Most Stolen Bases in a Career',
-        possibleAnswers: ['A. Phil Rizzuto',
+        possibleAnswers: 
+            ['A. Phil Rizzuto',
             'B. Willie Randolph',
             'C. Rickey Henderson',
             'D. Derek Jeter'],
